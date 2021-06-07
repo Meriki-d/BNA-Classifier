@@ -23,4 +23,4 @@ A neural network classifier for the Bank Note Authentication UCI dataset using T
     
       $ pip install -r requirements.txt  ( or conda install )
       
-* Open 'BNA_classifier.ipynb' in Jupyter Notebook
+* Open 'BNA.ipynb' in Jupyter Notebook
